@@ -1,3 +1,4 @@
+throw new Error("Application crashed");
 const express = require('express');
 const app = express();
 
